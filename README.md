@@ -742,6 +742,7 @@ Some data mining competition platforms
 
 ## Data Sets
 
+- [Base dos Dados](https://basedosdados.org/)
 - [Academic Torrents](http://academictorrents.com/)
 - [hadoopilluminated.com](http://hadoopilluminated.com/hadoop_illuminated/Public_Bigdata_Sets.html)
 - [data.gov](https://catalog.data.gov/dataset) - The home of the U.S. Government's open data
